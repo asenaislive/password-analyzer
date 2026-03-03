@@ -1,0 +1,6 @@
+gui\CheckerPanel.class
+gui\PasswordCheckerGUI.class
+main\PasswordFile.class
+main\PasswordCheckerCLI.class
+main\PasswordChecker.class
+gui\CheckerPanel$1.class
