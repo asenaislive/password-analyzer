@@ -47,11 +47,8 @@ If the password passes all validation checks, it calculates entropy in bits and 
 
 ---
 
-## 📦 Build Instructions
+## 📦 Instructions
 
-Make sure Maven is installed.
-
-From the project root directory:
-
-```bash
-mvn clean package
+1. Download PasswordChecker-1.0.0.jar
+2. Open Terminal and run command:
+java -jar PasswordChecker-1.0.0.jar
